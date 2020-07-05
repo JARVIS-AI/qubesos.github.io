@@ -17,6 +17,14 @@ Please [contact us][contact] if you or your organization is interested in becomi
 
 ## Funding by Year
 
+### 2020
+- **$100,000+** : [Invisible Things Lab], [Mozilla]
+- **$10,000+** : [Freedom of the Press Foundation], [Mullvad], [Piston], [Latacora]
+
+### 2019
+- **$100,000+** : [Invisible Things Lab]
+- **$50,000+** : [NLnet Foundation]
+
 ### 2018
 - **$250,000+** : [Invisible Things Lab]
 - **$10,000+** : [Freedom of the Press Foundation], [Boris]
@@ -40,16 +48,19 @@ Please [contact us][contact] if you or your organization is interested in becomi
 [Mullvad]: #mullvad
 [Boris]: #boris
 [zby]: #zby
+[Piston]: #piston
+[Latacora]: #latacora
 [NLnet Foundation]: #nlnet-foundation
 [Open Technology Fund]: #open-technology-fund
 [Invisible Things Lab]: #invisible-things-lab
+[Mozilla]: #mozilla
 [contact]: mailto:funding@qubes-os.org
 
 ## Our Partners
 We would like to recognize the following Qubes Partners.
 We are grateful for their support!
 
-<table class="partners" border="0">
+<table class="partners more-bottom" border="0">
   <tbody>
     <tr id="invisible-things-lab">
       <td>
@@ -59,9 +70,21 @@ We are grateful for their support!
       </td>
       <td>
         <h3 data-anchor-id="invisible-things-lab">Invisible Things Lab</h3>
-        <p><a href="https://invisiblethingslab.com/">Invisible Things Lab (ITL)</a> is a privately held company based in Warsaw, Poland, owned by Joanna Rutkowska and Joanna Gołębiewska.
+        <p><a href="https://invisiblethingslab.com/">Invisible Things Lab (ITL)</a> is a privately held company based in Berlin, Germany.
         ITL has supported Qubes OS development from the beginning of the project in 2010 to the present.
         The company’s primary source of revenue is security research and development.</p>
+      </td>
+    </tr>
+    <tr id="mozilla">
+      <td>
+        <a href="https://mozilla.org/">
+          <img src="/attachment/site/mozilla-logo-bw-rgb.png">
+        </a>
+      </td>
+      <td>
+        <h3 data-anchor-id="mozilla">Mozilla</h3>
+        <p><a href="https://mozilla.org/">Mozilla</a>'s mission is to ensure the Internet is a global public resource, open and accessible to all. An Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.</p>
+        <p>At Mozilla, we're a global community of technologists, thinkers and builders working together to keep the Internet alive and accessible, so people worldwide can be informed contributors and creators of the Web. We believe this act of human collaboration across an open platform is essential to individual growth and our collective future.</p>
       </td>
     </tr>
     <tr id="freedom-of-the-press-foundation">
@@ -88,7 +111,26 @@ We are grateful for their support!
         <p><a href="https://www.mullvad.net/">Mullvad</a> is a VPN service that keeps users' online activity, identity, and location private.
         With a fundamental belief in privacy as a universal right, Mullvad's ultimate goal is to make Internet censorship and mass surveillance ineffective.</p>
         <p>The Mullvad team has relied on Qubes in its day-to-day operations since early 2015.
-        To support its continued development, Mullvad made a generous donation to Qubes in 2017.</p>
+        To support its continued development, Mullvad made a generous donation to Qubes in 2017 and 2020.</p>
+      </td>
+    </tr>
+    <tr id="piston">
+      <td><h2 class="outer-heading">Piston</h2></td>
+      <td>
+        <h3 data-anchor-id="piston">Piston</h3>
+       <p><b>Piston</b> is a Qubes OS user who is passionate about freedom, anonymity, and working toward a world free from oppression. <b>Piston</b> is a strong supporter of free and open-source software, and Qubes OS in particular, as one of the best means for users to keep their personal data private and secure.</p>
+      </td>
+    </tr>
+    <tr id="latacora">
+      <td>
+        <a href="https://www.latacora.com/">
+          <img src="/attachment/site/latacora-logo.png">
+        </a>
+      </td>
+      <td>
+        <h3 data-anchor-id="latacora">Latacora</h3>
+       <p><b>Latacora</b> is an alternative to your first security hire. We bootstrap security practices for startups and get you up and running with a broad range of expertise, including cloud security, application security, network security and corporate security.</p>
+       <p>Latacora uses Qubes extensively to help provide separation between client environments.</p>
       </td>
     </tr>
     <tr id="boris">
@@ -97,7 +139,7 @@ We are grateful for their support!
         <h3 data-anchor-id="boris">Boris</h3>
         <p><b>Boris</b> is a Qubes OS user who is thankful for the hard work put in by the Qubes team and who wants to set a positive example that encourages others to donate to this worthwhile project.</p>
       </td>
-    </tr>
+    </tr>   
     <tr id="zby">
       <td><h2 class="outer-heading">zby</h2></td>
       <td>
@@ -163,4 +205,16 @@ We are grateful for their support!
     </tr>
   </tbody>
 </table>
+
+
+## Supporters
+
+A special thank you to our supporters! Please consider making a [donation] today!
+
+<script src="https://opencollective.com/qubes-os/banner.js"></script>
+
+<noscript><object type="image/svg+xml" data="https://opencollective.com/qubes-os/tiers/supporters.svg?avatarHeight=60&width=600"></object></noscript>
+
+
+[donation]: /donate/
 

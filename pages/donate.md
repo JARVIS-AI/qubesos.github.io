@@ -17,8 +17,9 @@ We accept monetary donations via Bitcoin and credit card in the following three 
 Donating with Bitcoin ensures that 100% of your money supports Qubes development because we do not incur any administrative costs.
 With credit card donations, [we lose roughly 14%][open-collective-faq] to administrative costs.
 
-+ **Donate to Our Bitcoin Address:** 3GakuQQDUGyyUnV1p5Jc3zd6CpQDkDwmDq ([read more about verifying our Bitcoin address](#how-do-i-verify-your-bitcoin-address))
++ **Donate to Our Bitcoin Address:** `3GakuQQDUGyyUnV1p5Jc3zd6CpQDkDwmDq` ([read more about verifying our Bitcoin address](#how-do-i-verify-your-bitcoin-address))
 + **Donate with Credit Card:** [visit our Open Collective page][Open Collective]
++ **Donation via tax-deductible EU Bank Transfer:** [read more about donating via EU Bank Transfer](#how-can-i-donate-via-eu-bank-transfer)
 
 ### 2. Join Our Sustaining Supporters
 Please consider becoming a sustaining supporter of the Qubes Project by giving a recurring monthly donation.
@@ -42,15 +43,10 @@ If you are a Qubes OS user or support our cause, help us expand our community by
 ## FAQs on Donating
 
 ### Why Should I Donate?
-Qubes OS is free and open-source software.
-This means we do not earn any revenue by selling it.
-Instead, we rely on your financial support.
-If you rely on Qubes for secure computing in your work or personal life, or see the value in our efforts, then please donate now.
+Qubes OS is free and open-source software --- this means we do not earn any revenue by selling it.
+Instead, we rely on your financial support. If you rely on Qubes for secure computing in your work or personal life, or see the value in our efforts, then please donate.
 
-Qubes is one of the few operating systems that places the security of its users above all else.
-It has the potential to be a worldwide game changer in endpoint security.
-But for that to happen, the project requires a wide spectrum of expertise.
-In order to both retain and expand our core team, we require substantial funding from supporters like you.
+Qubes OS is one of the few operating systems that places the security of its users above all else. [Here is what security and privacy experts say about the project][experts]. A project like this requires a wide spectrum of expertise. In order to both retain and expand our core team, we deeply appreciate donations from supporters like you.
 
 With the help of our community, we hope to eventually build a nonprofit organization that will ensure the long-term future of the Qubes Project.
 
@@ -63,7 +59,33 @@ In both cases, the reason is that our resources are limited.
 If we were to allocate these limited resources to providing support to individual donors and implemented their requested features, we wouldn't have enough resources left over to make timely progress on our core projects, and the long-term sustainability of Qubes would suffer.
 
 ### Is My Donation Tax Deductible?
-Donations to the Qubes project are not tax deductible.
+Donations via credit card or Bitcoin to the Qubes project are not tax deductible. Donations via [EU Bank Transfer](#how-can-i-donate-via-eu-bank-transfer) should be tax deductible.
+
+### How Can I Donate via EU Bank Transfer?
+For donations over 500EUR, we have partnered with the [Center for the
+Cultivation of Technology] (CCT) to handle EU bank transfers. CCT is a
+charitable non-profit host organization in Germany for international
+Free Software projects. They charge a 10% fee for this service.
+
+Please send your donation to the following German bank account, ensuring
+you write the correct **purpose of transfer**:
+```
+Account holder: Center for the Cultivation of Technology gGmbH
+IBAN: DE65 4306 0967 4111 9411 01
+BIC: GENODEM1GLS
+Purpose of transfer: QUBES-F6PLUR4N
+Bank: GLS Gemeinschaftsbank eG
+Bank address: Christstrasse 9, 44789, Bochum, Germany
+```
+Donations should be tax-deductible to the full extent permitted by law
+across all member countries of the European Union (EU). With almost 30
+EU member states, no guarantees can be given for all tax
+authorities. However CCT has had no known issues with the recognition of 
+tax-deductible donation status at the time of writing.
+
+CCT is happy to provide individual donation receipts and work with you
+on their recognition. For that, please send your full name and postal
+address and the date of your transaction to `donate@techcultivation.org`.
 
 ### Can I Donate Something Other Than Money?
 We prefer monetary contributions which allow us greater flexibility.
@@ -76,6 +98,10 @@ You can also view the address on [blockexplorer.com][blockexplorer.com] and [blo
 
 The Qubes Project maintains a [decentralized Bitcoin fund using a multi-signature wallet][announcement].
 This means that no single person is capable of spending these funds.
+
+### Is Qubes merchandise available?
+
+Yes! Please see the [Merchandise] page.
 
 ### What is Qubes?
 Qubes OS is a free and open source operating system that focuses on security and privacy.
@@ -94,5 +120,9 @@ Visit our [introduction page to Qubes][intro page] or watch a [video overview of
 [blockexplorer.com]: https://blockexplorer.com/address/3GakuQQDUGyyUnV1p5Jc3zd6CpQDkDwmDq
 [blockchain.info]: https://blockchain.info/address/3GakuQQDUGyyUnV1p5Jc3zd6CpQDkDwmDq
 [announcement]: /news/2016/07/13/qubes-distributed-fund/
+[Merchandise]: /merchandise/
 [intro page]: /intro/
 [video page]: /video-tours/
+[Center for the Cultivation of Technology]: https://techcultivation.org
+[experts]: /experts/
+
